@@ -8,7 +8,9 @@ export default function Projects() {
 
   if (loading) return <Spinner />
   if (error) return <p>Error :(</p>
+
   return (
+      <>
       {data.projects.length > 0 ? (
             <div className='row mt-4'>
               {data.projects.map((project) => (
@@ -18,5 +20,6 @@ export default function Projects() {
         ) : (
             <p>No Projects</p>
         )}
+      </>
   )
 }
