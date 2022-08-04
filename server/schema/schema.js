@@ -103,9 +103,9 @@ const mutation = new GraphQLObjectType({
           type: new GraphQLEnumType({
             name: 'ProjectStatus',
             values: {
-              'new': { value: 'Not Started' },
-              'progress': { value: 'In Progress' },
-              'complete': { value: 'Completed' }
+              new: { value: 'Not Started' },
+              progress: { value: 'In Progress' },
+              complete: { value: 'Completed' }
             }
           }),
           defaultValue: 'Not Started',
