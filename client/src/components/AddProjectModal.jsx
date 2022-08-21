@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { FaList } from 'react-icons/fa';
+import { FaTicketAlt } from 'react-icons/fa';
 import { useMutation, useQuery } from '@apollo/client';
 import { ADD_PROJECT } from '../mutations/projectMutations';
 import { GET_PROJECTS } from '../queries/projectQueries';
@@ -54,8 +54,8 @@ export default function AddClientModal() {
                   data-bs-target='#addProjectModal'
               >
                 <div className='d-flex align-items-center'>
-                  <FaList className='icon' />
-                  <div>New Project</div>
+                  <FaTicketAlt className='icon' />
+                  <div>New Ticket</div>
                 </div>
               </button>
 
@@ -69,7 +69,7 @@ export default function AddClientModal() {
                   <div className='modal-content'>
                     <div className='modal-header'>
                       <h5 className='modal-title' id='addProjectModalLabel'>
-                        New Project
+                        New Ticket
                       </h5>
                       <button
                           type='button'

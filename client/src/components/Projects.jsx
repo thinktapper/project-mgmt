@@ -18,7 +18,7 @@ export default function Projects() {
               ))}
             </div>
         ) : (
-            <p>No Projects</p>
+            <p>No Tickets</p>
         )}
       </>
   )
