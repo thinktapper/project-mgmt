@@ -1,6 +1,6 @@
 {
-  "name": "project-mgmt",
-  "version": "1.0.0",
+  "name": "ticket-mgmt",
+  "version": "1.2.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thinktapper/project-mgmt.git"
+    "url": "git+https://github.com/thinktapper/ticket-mgmt.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/thinktapper/project-mgmt/issues"
+    "url": "https://github.com/thinktapper/ticket-mgmt/issues"
   },
-  "homepage": "https://github.com/thinktapper/project-mgmt#readme",
+  "homepage": "https://github.com/thinktapper/ticket-mgmt#readme",
   "dependencies": {
     "colors": "^1.4.0",
     "cors": "^2.8.5",
