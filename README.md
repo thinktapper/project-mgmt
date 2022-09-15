@@ -1,8 +1,11 @@
-# Project MGMT App
+# Ticket Management App
+A full stack ticket management system that allows users to keep track of clients and manage tickets for a variety of 
+projects. 
+Users 
+can view client information, ticket status, update ticket details, and mark tickets as in progress or 
+completed.
 
-Full stack GraphQL, Express, and React app.
-
-**Link to project:** http://recruiters-love-seeing-live-demos.com/
+**Link to project:** https://ticket-mgmt.up.railway.app/
 
 ![alt tag](http://placekitten.com/1200/650)
 
