@@ -7,7 +7,7 @@ completed.
 
 **Link to project:** https://ticket-mgmt.up.railway.app/
 
-![alt tag](http://placekitten.com/1200/650)
+![Ticket management app in action](https://user-images.githubusercontent.com/10656909/190383868-4c00e645-41f4-4542-b0bd-d7f3789f5b18.gif)
 
 ## How It's Made:
 
