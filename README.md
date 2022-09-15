@@ -52,7 +52,7 @@ npm start
 
 ## Lessons Learned:
 
-The purpose of this project was to learn how to build a GraphQL server with Apollo and React. I learned how to use GraphQL with Apollo and how to use React with Apollo. I also learned how to use MongoDB with separate client / server node instances.
+The purpose of this project was to learn how to build a GraphQL server with Apollo and React. I learned how to use GraphQL with Express and how to use React with Apollo. I also learned how to use MongoDB with separate client / server node instances.
 
 ## Examples:
 
